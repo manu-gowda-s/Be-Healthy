@@ -1,0 +1,237 @@
+{
+  "schedule": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "date": "18/07/2022",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "date": "19/07/2022",
+      "start_time": "01:00",
+      "end_time": "02:00"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "date": "19/07/2022",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "email": "Nathan@yesenia.net"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "date": "19/07/2022",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": 5,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "date": "20/07/2022",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": 6,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "date": "20/07/2022",
+      "start_time": "12:00",
+      "end_time": "01:00",
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": 7,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "date": "20/07/2022",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "email": "Julianne.OConner@kory.org"
+    }
+  ],
+  "slots": [
+    {
+      "date": "15/07/2022",
+      "start_time": "16:07",
+      "end_time": "15:07",
+      "id": 1
+    },
+    {
+      "date": "13/07/2022",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "id": 2
+    },
+    {
+      "date": "16/07/2022",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "id": 3
+    },
+    {
+      "date": "16/07/2022",
+      "start_time": "15:07",
+      "end_time": "16:07",
+      "id": 4
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "doctorsName": "Leanne Graham",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1960",
+      "doctorsGender": "Male",
+      "Speciality": "Dermatology",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "leanne@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 2,
+      "doctorsName": "Ervin Howell",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1970",
+      "doctorsGender": "Male",
+      "Speciality": "General Surgery",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "nathan@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 3,
+      "doctorsName": "Clementine Bauch",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "05/07/1977",
+      "doctorsGender": "Male",
+      "Speciality": "Dermatology",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "clementine@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 4,
+      "doctorsName": "Patricia Lebsack",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "05/07/1980",
+      "doctorsGender": "Male",
+      "Speciality": "General Surgery",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "Julianne.OConner@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 5,
+      "doctorsName": "Chelsey Dietrich",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "10/07/2022",
+      "doctorsGender": "Male",
+      "Speciality": "Orthopedics",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "Lucio_Hettinger@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 6,
+      "doctorsName": "Mrs. Dennis Schulist",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1960",
+      "doctorsGender": "Male",
+      "Speciality": "Ophthalmology",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "dennis.schulist@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 7,
+      "doctorsName": "Kurtis Weissnat",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1960",
+      "doctorsGender": "Male",
+      "Speciality": "Orthopedics",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "Telly.Hoeger@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 8,
+      "doctorsName": "Nicholas Runolfsdottir",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1960",
+      "doctorsGender": "Male",
+      "Speciality": "Ophthalmology",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "Sherwood@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 9,
+      "doctorsName": "Glenna Reichert",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1960",
+      "doctorsGender": "Male",
+      "Speciality": "Anesthesia",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "Chaim_McDermott@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    },
+    {
+      "id": 10,
+      "doctorsName": "Clementina DuBuque",
+      "doctorImage": "../public/Images/doctor1.jpg",
+      "doctorsDob": "08/07/1960",
+      "doctorsGender": "Male",
+      "Speciality": "Internal Medicine",
+      "yearOfExperience": "6",
+      "qualification": "M.B.B.S",
+      "doctorsEmail": "Rey.Padberg@gmail.com",
+      "doctorCity": "Mumbai",
+      "password": "",
+      "doctorsMobile": "9876543221"
+    }
+  ],
+  "selectedProfiles": [
+    
+  ]
+}

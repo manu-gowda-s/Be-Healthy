@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css?family=Exo:500,600,700|Roboto&display=swap");
+
+.banner1{
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    min-height: 350px;
+  
+}
+
+.slideImg{
+  height: 600px;
+  width: 500px;
+  object-fit: cover;
+
+}
+.banner1 .block {
+    padding: 80px 0px 160px;
+  }
+  .banner1 .block h1 {
+    font-size: 60px;
+    line-height: 1.2;
+    letter-spacing: -1.2px;
+    text-transform: capitalize;
+    color: #223a66;
+  }
+
+  .newcard {
+    width: 390px;
+    height: 254px;
+    border-radius: 30px;
+    background:  #ffffff;
+    box-shadow: 15px 15px 30px #bebebe,
+                -15px -15px 30px #ffffff;
+   }
+
+   h1,h2,h5{
+    font-family: "Exo", sans-serif;
+    font-weight: 700;
+    color: #222;
+   }
+   h2:after{
+ 
+    display:block;
+    width: 6em;
+    max-width:70%;
+    border-bottom: 0.1em solid red;
+    margin: 0.5em auto 0;
+  }
+   .newcard p{
+    text-align: center;
+    padding: 5px 4px ;
+    line-height: 30px;
+   }
+
+   .card-icons{
+    width: 60px;
+    height: 60px;
+    padding-top: 8px;
+    margin: 0 auto;
+   }
+
+   .search-icons{
+    width: 30px;
+    height: 30px;
+   }
+
+   #navbarNav{
+    justify-content:flex-end;
+  }
+  .bn632-hover {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -o-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn24 {
+    background-image: linear-gradient(
+        to right,
+        #6253e1,
+        #852d91,
+        #a3a1ff,
+        #f24645
+      );
+    box-shadow: 0 4px 15px 0 rgba(126, 52, 161, 0.75);
+  }
+
+  

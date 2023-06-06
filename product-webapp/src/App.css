@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+  }
+  body {
+    overflow-x: hidden; /* Hide scrollbars */
+  }
+  html {
+    font-size: 18px;
+    overflow-x: hidden;
+  }
+  .App {
+    padding: 50px;
+  }
+/* From uiverse.io by @satyamchaudharydev */
+#logout {
+  border-radius: 9px;
+  padding: 0.5em 1em;
+  background-image: linear-gradient(to right, #e53935 0%, #e35d5b  51%, #e53935  100%);
+ 
+  border: none;
+  color: rgb(255, 255, 255);
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-family: inherit;
+  font-weight: 500;
+  cursor: pointer;
+  transition: box-shadow 0.25s ease 0s;
+  letter-spacing: 0.08rem;
+ }
+ 
+ #logout:hover,
+ #logout:focus {
+  background-image: linear-gradient(to right, #EB3349 0%, #F45C43  51%, #EB3349  100%);
+  box-shadow: 0 0.1rem 0.8rem rgb(254, 100, 70);
+ }

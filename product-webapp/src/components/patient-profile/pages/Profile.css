@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+   .bgImg{
+    display: none;
+   }
+   .username{
+    font-size: 25px;
+    bottom: 150px;
+    position: relative;
+   }
+  }
+
+
+  

@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
+
+.web-title{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.login-container {
+    
+    overflow-x: hidden;
+    height: 100%;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+    background-repeat: no-repeat;
+}
+
+.card0 {
+    box-shadow: 0px 4px 8px 0px #757575;
+    border-radius: 0px;
+}
+
+.card2 {
+    margin: 0px 40px;
+}
+
+.logo {
+     width: 150px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 35px;
+   
+  
+}
+
+.login-image {
+    width: 840px;
+    height: 580px;
+}
+
+.border-line {
+    border-right: 1px solid #EEEEEE;
+}
+
+
+
+.line {
+    height: 1px;
+    width: 45%;
+    background-color: #E0E0E0;
+    margin-top: 10px;
+}
+
+.or {
+    width: 10%;
+    font-weight: bold;
+}
+
+.text-sm {
+    font-size: 14px !important;
+}
+
+
+
+
+button:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0;
+}
+
+a {
+    color: inherit;
+    cursor: pointer;
+}
+
+.btn-blue {
+    background-color: #1A237E;
+    width: 150px;
+    color: #fff;
+    border-radius: 2px;
+}
+
+
+
+.bg-blue {
+    color: #fff;
+    background-color: #1A237E;
+}
+
+
+
+.bn632-hover {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn26 {
+    background-image: linear-gradient(
+      to right,
+      #25aae1,
+      #4481eb,
+      #04befe,
+      #3f86ed
+    );
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+  }
+
+@media screen and (max-width: 991px) {
+    .logo {
+        margin-left: 0px;
+        width: 100px;
+        height: 50px;
+    }
+
+    .image {
+        /* width: 300px;
+        height: 220px; */
+        display: none;
+    }
+
+    .border-line {
+        border-right: none;
+    }
+
+    .column-1 {
+        
+      bottom:200px;
+    }
+}

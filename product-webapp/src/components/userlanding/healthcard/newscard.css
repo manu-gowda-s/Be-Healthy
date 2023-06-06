@@ -1,0 +1,53 @@
+.health-cards {
+
+
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0.05rem 0.1rem 0.3rem -0.03rem rgba(0, 0, 0, 0.45);
+    padding-bottom: 1rem;
+    width: 35%;
+    overflow: hidden;
+    
+  }
+    .healthImg{
+      border-radius: 0.5rem 0.5rem 0 0;
+      width: 100%;
+      object-fit: cover;
+       height: max(10rem, 25vh);
+      max-height: max(10rem, 30vh);
+    
+    }
+      
+    
+  
+   
+  
+  
+  /* Additional demo display styles */
+  * {
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .health-cards h3 {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+  }
+  
+  .health-cards a {
+    color: inherit;
+  }
+  
+  .health-cards-wrapper {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30ch, 1fr));
+    grid-gap: 1.5rem;
+    max-width: 239vw;
+    width: 120ch;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
